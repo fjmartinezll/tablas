@@ -1,0 +1,5 @@
+funcion,numeroInstrumentos,xEtiqueta,yEtiqueta,xMargen,yMargen
+Melodía,1,50,210,600,0,0
+Armonía,1,-350,210,0,600
+Percusión,12,40,1000,600,0
+Bajo,1,-305,1000,600,600,600
