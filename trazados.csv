@@ -1,0 +1,5 @@
+nombreTrazado,ordenFaseTrazado,nombreFaseTrazado,alturaRelativaFase,duracionRelativaFase
+pulsación normal piano,1,Ataque,30,5
+pulsación normal piano,2,Caida,20,10
+pulsación normal piano,3,Sostenimiento,15,80
+pulsación normal piano,4,Liberación,0,5

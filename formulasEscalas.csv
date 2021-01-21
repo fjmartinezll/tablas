@@ -1,0 +1,505 @@
+﻿00,no,0
+01,Cromática,1
+02,Cromática,2
+03,Cromática,3
+04,Cromática,4
+05,Cromática,5
+06,Cromática,6
+07,Cromática,7
+08,Cromática,8
+09,Cromática,9
+10,Cromática,10
+11,Cromática,11
+12,Cromática,12
+13,Cromática,13
+14,Cromática,14
+15,Cromática,15
+16,Cromática,16
+17,Cromática,17
+18,Cromática,18
+19,Cromática,19
+20,Cromática,20
+21,Cromática,21
+22,Cromática,22
+23,Cromática,23
+24,Cromática,24
+01,Occidental,1
+02,Occidental,0
+03,Occidental,3
+04,Occidental,0
+05,Occidental,5
+06,Occidental,6
+07,Occidental,0
+08,Occidental,8
+09,Occidental,0
+10,Occidental,10
+11,Occidental,0
+12,Occidental,12
+13,Occidental,13
+14,Occidental,0
+15,Occidental,15
+16,Occidental,0
+17,Occidental,17
+18,Occidental,18
+19,Occidental,0
+20,Occidental,20
+21,Occidental,0
+22,Occidental,22
+23,Occidental,0
+24,Occidental,24
+01,Árabe,1
+02,Árabe,2
+03,Árabe,0
+04,Árabe,0
+05,Árabe,5
+06,Árabe,6
+07,Árabe,0
+08,Árabe,8
+09,Árabe,9
+10,Árabe,0
+11,Árabe,0
+12,Árabe,12
+13,Árabe,13
+14,Árabe,14
+15,Árabe,0
+16,Árabe,0
+17,Árabe,17
+18,Árabe,18
+19,Árabe,0
+20,Árabe,20
+21,Árabe,21
+22,Árabe,0
+23,Árabe,0
+24,Árabe,24
+01,Blues,1
+02,Blues,0
+03,Blues,0
+04,Blues,0
+05,Blues,5
+06,Blues,0
+07,Blues,7
+08,Blues,8
+09,Blues,9
+10,Blues,0
+11,Blues,11
+12,Blues,0
+13,Blues,13
+14,Blues,0
+15,Blues,0
+16,Blues,0
+17,Blues,17
+18,Blues,0
+19,Blues,19
+20,Blues,20
+21,Blues,21
+22,Blues,0
+23,Blues,23
+24,Blues,0
+01,Aumentada,1
+02,Aumentada,0
+03,Aumentada,3
+04,Aumentada,0
+05,Aumentada,5
+06,Aumentada,0
+07,Aumentada,7
+08,Aumentada,8
+09,Aumentada,9
+10,Aumentada,0
+11,Aumentada,11
+12,Aumentada,0
+13,Aumentada,13
+14,Aumentada,0
+15,Aumentada,15
+16,Aumentada,0
+17,Aumentada,17
+18,Aumentada,0
+19,Aumentada,19
+20,Aumentada,20
+21,Aumentada,21
+22,Aumentada,0
+23,Aumentada,23
+24,Aumentada,0
+01,menor Armónica,1
+02,menor Armónica,0
+03,menor Armónica,3
+04,menor Armónica,4
+05,menor Armónica,0
+06,menor Armónica,6
+07,menor Armónica,0
+08,menor Armónica,8
+09,menor Armónica,9
+10,menor Armónica,0
+11,menor Armónica,0
+12,menor Armónica,12
+13,menor Armónica,13
+14,menor Armónica,0
+15,menor Armónica,15
+16,menor Armónica,16
+17,menor Armónica,0
+18,menor Armónica,18
+19,menor Armónica,0
+20,menor Armónica,20
+21,menor Armónica,21
+22,menor Armónica,0
+23,menor Armónica,0
+24,menor Armónica,24
+01,Pentatónica Mayor,1
+02,Pentatónica Mayor,0
+03,Pentatónica Mayor,3
+04,Pentatónica Mayor,0
+05,Pentatónica Mayor,5
+06,Pentatónica Mayor,0
+07,Pentatónica Mayor,0
+08,Pentatónica Mayor,8
+09,Pentatónica Mayor,0
+10,Pentatónica Mayor,0
+11,Pentatónica Mayor,11
+12,Pentatónica Mayor,0
+13,Pentatónica Mayor,13
+14,Pentatónica Mayor,0
+15,Pentatónica Mayor,15
+16,Pentatónica Mayor,0
+17,Pentatónica Mayor,17
+18,Pentatónica Mayor,0
+19,Pentatónica Mayor,0
+20,Pentatónica Mayor,20
+21,Pentatónica Mayor,0
+22,Pentatónica Mayor,0
+23,Pentatónica Mayor,23
+24,Pentatónica Mayor,0
+01,Pentatónica menor,1
+02,Pentatónica menor,0
+03,Pentatónica menor,0
+04,Pentatónica menor,4
+05,Pentatónica menor,0
+06,Pentatónica menor,6
+07,Pentatónica menor,0
+08,Pentatónica menor,8
+09,Pentatónica menor,0
+10,Pentatónica menor,0
+11,Pentatónica menor,11
+12,Pentatónica menor,0
+13,Pentatónica menor,13
+14,Pentatónica menor,0
+15,Pentatónica menor,0
+16,Pentatónica menor,16
+17,Pentatónica menor,0
+18,Pentatónica menor,18
+19,Pentatónica menor,0
+20,Pentatónica menor,20
+21,Pentatónica menor,0
+22,Pentatónica menor,0
+23,Pentatónica menor,23
+24,Pentatónica menor,0
+01,Disminuida,1
+02,Disminuida,0
+03,Disminuida,3
+04,Disminuida,4
+05,Disminuida,0
+06,Disminuida,6
+07,Disminuida,7
+08,Disminuida,0
+09,Disminuida,9
+10,Disminuida,10
+11,Disminuida,0
+12,Disminuida,12
+13,Disminuida,13
+14,Disminuida,0
+15,Disminuida,15
+16,Disminuida,16
+17,Disminuida,0
+18,Disminuida,18
+19,Disminuida,19
+20,Disminuida,0
+21,Disminuida,21
+22,Disminuida,22
+23,Disminuida,0
+24,Disminuida,24
+01,Bebop Dominante,1
+02,Bebop Dominante,0
+03,Bebop Dominante,3
+04,Bebop Dominante,0
+05,Bebop Dominante,5
+06,Bebop Dominante,6
+07,Bebop Dominante,0
+08,Bebop Dominante,8
+09,Bebop Dominante,0
+10,Bebop Dominante,10
+11,Bebop Dominante,11
+12,Bebop Dominante,12
+13,Bebop Dominante,13
+14,Bebop Dominante,0
+15,Bebop Dominante,15
+16,Bebop Dominante,0
+17,Bebop Dominante,17
+18,Bebop Dominante,18
+19,Bebop Dominante,0
+20,Bebop Dominante,20
+21,Bebop Dominante,0
+22,Bebop Dominante,22
+23,Bebop Dominante,23
+24,Bebop Dominante,24
+01,Bebop Mayor,1
+02,Bebop Mayor,0
+03,Bebop Mayor,3
+04,Bebop Mayor,0
+05,Bebop Mayor,5
+06,Bebop Mayor,6
+07,Bebop Mayor,0
+08,Bebop Mayor,8
+09,Bebop Mayor,9
+10,Bebop Mayor,10
+11,Bebop Mayor,0
+12,Bebop Mayor,12
+13,Bebop Mayor,13
+14,Bebop Mayor,0
+15,Bebop Mayor,15
+16,Bebop Mayor,0
+17,Bebop Mayor,17
+18,Bebop Mayor,18
+19,Bebop Mayor,0
+20,Bebop Mayor,20
+21,Bebop Mayor,21
+22,Bebop Mayor,22
+23,Bebop Mayor,0
+24,Bebop Mayor,24
+01,Enigmática,1
+02,Enigmática,2
+03,Enigmática,0
+04,Enigmática,0
+05,Enigmática,5
+06,Enigmática,0
+07,Enigmática,7
+08,Enigmática,0
+09,Enigmática,9
+10,Enigmática,0
+11,Enigmática,11
+12,Enigmática,12
+13,Enigmática,13
+14,Enigmática,14
+15,Enigmática,0
+16,Enigmática,0
+17,Enigmática,17
+18,Enigmática,0
+19,Enigmática,19
+20,Enigmática,0
+21,Enigmática,21
+22,Enigmática,0
+23,Enigmática,23
+24,Enigmática,24
+01,Japonesa,1
+02,Japonesa,0
+03,Japonesa,3
+04,Japonesa,0
+05,Japonesa,0
+06,Japonesa,6
+07,Japonesa,0
+08,Japonesa,8
+09,Japonesa,0
+10,Japonesa,0
+11,Japonesa,11
+12,Japonesa,0
+13,Japonesa,13
+14,Japonesa,0
+15,Japonesa,15
+16,Japonesa,0
+17,Japonesa,0
+18,Japonesa,18
+19,Japonesa,0
+20,Japonesa,20
+21,Japonesa,0
+23,Japonesa,0
+23,Japonesa,23
+24,Japonesa,0
+01,Magiar,1
+02,Magiar,0
+03,Magiar,3
+04,Magiar,4
+05,Magiar,0
+06,Magiar,0
+07,Magiar,7
+08,Magiar,8
+09,Magiar,9
+10,Magiar,0
+11,Magiar,0
+12,Magiar,12
+13,Magiar,13
+14,Magiar,0
+15,Magiar,15
+16,Magiar,16
+17,Magiar,0
+18,Magiar,0
+19,Magiar,19
+20,Magiar,20
+21,Magiar,21
+22,Magiar,0
+23,Magiar,0
+24,Magiar,24
+01,Melódica menor,1
+02,Melódica menor,0
+03,Melódica menor,3
+04,Melódica menor,4
+05,Melódica menor,0
+06,Melódica menor,6
+07,Melódica menor,0
+08,Melódica menor,8
+09,Melódica menor,0
+10,Melódica menor,10
+11,Melódica menor,0
+12,Melódica menor,12
+13,Melódica menor,13
+14,Melódica menor,0
+15,Melódica menor,15
+16,Melódica menor,16
+17,Melódica menor,0
+18,Melódica menor,18
+19,Melódica menor,0
+20,Melódica menor,20
+21,Melódica menor,0
+22,Melódica menor,22
+23,Melódica menor,0
+24,Melódica menor,24
+01,Napolitana,1
+02,Napolitana,2
+03,Napolitana,0
+04,Napolitana,4
+05,Napolitana,0
+06,Napolitana,6
+07,Napolitana,0
+08,Napolitana,8
+09,Napolitana,0
+10,Napolitana,10
+11,Napolitana,0
+12,Napolitana,12
+13,Napolitana,13
+14,Napolitana,14
+15,Napolitana,0
+16,Napolitana,16
+17,Napolitana,0
+18,Napolitana,18
+19,Napolitana,0
+20,Napolitana,20
+21,Napolitana,0
+22,Napolitana,22
+23,Napolitana,0
+24,Napolitana,24
+01,Napolitana menor,1
+02,Napolitana menor,2
+03,Napolitana menor,0
+04,Napolitana menor,4
+05,Napolitana menor,0
+06,Napolitana menor,6
+07,Napolitana menor,0
+08,Napolitana menor,8
+09,Napolitana menor,9
+10,Napolitana menor,0
+11,Napolitana menor,0
+12,Napolitana menor,12
+13,Napolitana menor,13
+14,Napolitana menor,14
+15,Napolitana menor,0
+16,Napolitana menor,16
+17,Napolitana menor,0
+18,Napolitana menor,18
+19,Napolitana menor,0
+20,Napolitana menor,20
+21,Napolitana menor,21
+22,Napolitana menor,0
+23,Napolitana menor,0
+24,Napolitana menor,24
+01,Pentafónica (blues y rock),1
+02,Pentafónica (blues y rock),0
+03,Pentafónica (blues y rock),3
+04,Pentafónica (blues y rock),0
+05,Pentafónica (blues y rock),5
+06,Pentafónica (blues y rock),0
+07,Pentafónica (blues y rock),0
+08,Pentafónica (blues y rock),8
+09,Pentafónica (blues y rock),0
+10,Pentafónica (blues y rock),10
+11,Pentafónica (blues y rock),0
+12,Pentafónica (blues y rock),0
+13,Pentafónica (blues y rock),13
+14,Pentafónica (blues y rock),0
+15,Pentafónica (blues y rock),15
+16,Pentafónica (blues y rock),0
+17,Pentafónica (blues y rock),17
+18,Pentafónica (blues y rock),0
+19,Pentafónica (blues y rock),0
+20,Pentafónica (blues y rock),20
+21,Pentafónica (blues y rock),0
+22,Pentafónica (blues y rock),22
+23,Pentafónica (blues y rock),0
+24,Pentafónica (blues y rock),0
+01,Tonos enteros,1
+02,Tonos enteros,0
+03,Tonos enteros,3
+04,Tonos enteros,0
+05,Tonos enteros,5
+06,Tonos enteros,0
+07,Tonos enteros,7
+08,Tonos enteros,0
+09,Tonos enteros,9
+10,Tonos enteros,0
+11,Tonos enteros,11
+12,Tonos enteros,0
+13,Tonos enteros,13
+14,Tonos enteros,0
+15,Tonos enteros,15
+16,Tonos enteros,0
+17,Tonos enteros,17
+18,Tonos enteros,0
+19,Tonos enteros,19
+20,Tonos enteros,0
+21,Tonos enteros,21
+22,Tonos enteros,0
+23,Tonos enteros,23
+24,Tonos enteros,0
+01,Bachiana,1
+02,Bachiana,0
+03,Bachiana,3
+04,Bachiana,4
+05,Bachiana,0
+06,Bachiana,6
+07,Bachiana,0
+08,Bachiana,8
+09,Bachiana,0
+10,Bachiana,10
+11,Bachiana,0
+12,Bachiana,12
+13,Bachiana,13
+14,Bachiana,0
+15,Bachiana,15
+16,Bachiana,16
+17,Bachiana,0
+18,Bachiana,18
+19,Bachiana,0
+20,Bachiana,20
+21,Bachiana,0
+22,Bachiana,22
+23,Bachiana,0
+24,Bachiana,24
+01,fin,0
+02,fin,0
+03,fin,0
+04,fin,0
+05,fin,0
+06,fin,0
+07,fin,0
+08,fin,0
+09,fin,0
+10,fin,0
+11,fin,0
+12,fin,0
+13,fin,0
+14,fin,0
+15,fin,0
+16,fin,0
+17,fin,0
+18,fin,0
+19,fin,0
+20,fin,0
+21,fin,0
+22,fin,0
+23,fin,0
+24,fin,0
